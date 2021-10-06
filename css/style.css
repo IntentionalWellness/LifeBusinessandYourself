@@ -1,0 +1,15 @@
+#button-box, #final-result{
+    display: none;
+}
+
+.life-wheel{
+    pointer-events: none;
+    width: 600px;
+}
+
+
+@media(max-width: 768px){
+    .life-wheel{
+        width: 400px;
+    }
+}
