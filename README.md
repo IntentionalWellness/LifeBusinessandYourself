@@ -1,2 +1,0 @@
-# LifeBusinessandYourself
-trabajo personal
