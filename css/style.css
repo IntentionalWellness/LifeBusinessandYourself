@@ -4,7 +4,8 @@
 
 .life-wheel{
     pointer-events: none;
-    width: 600px;
+    width: 500px;
+    justify-content: center;
 }
 
 
@@ -12,4 +13,27 @@
     .life-wheel{
         width: 400px;
     }
+}
+
+h1{
+    font-size: 60px;
+
+}
+h4{
+    font-size: 40px;
+
+}
+h2{
+  font-size:  40px;
+}
+a{
+    font-size: 20px;
+
+}
+li{
+    font-size: 30px;
+}
+a.navbar-brand{
+font-size: 30px;
+text-align: center;
 }
